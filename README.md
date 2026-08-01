@@ -14,7 +14,7 @@ Explore chemistry through beautiful visualizations, interactive atomic models, a
 
 ---
 
-**🌐 Live Demo:** https://samar-me.web.app/aetherium
+**🌐 :** https://the-aetherium.web.app/
 
 </div>
 
