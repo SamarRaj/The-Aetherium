@@ -115,20 +115,7 @@ No frameworks required.
 
 ---
 
-# 📷 Screenshots
 
-> Add screenshots here
-
-```
-screenshots/
-
-├── homepage.png
-
-├── bohr-model.png
-
-├── trends.png
-
-└── study-mode.png
 ```
 
 ---
